@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple navigation</string>
+    <string name="splash_screen">Splash screen</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="home_sweet_home">Home sweet home!</string>
+    <string name="auth_error">Неверный логин или пароль!</string>
+    <string name="logout">Logout</string>
+</resources>
